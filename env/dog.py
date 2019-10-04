@@ -25,6 +25,6 @@ print("{} is {} and {} is {} and {} is {} and {} is {} and {} is {}.".format(bam
 #print (mylist[0].name)
 
 
-if bambi.species == "mammcanicheal":
+if bambi.species == "caniche":
 	print("{0} is a {1}!".format(bambi.name, bambi.species))
 
