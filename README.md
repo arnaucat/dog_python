@@ -17,6 +17,8 @@ Lo ejecutamos con el comando:
 
 $ cd env
 $ source bin/activate
+
+
 (env)$ python dog.py
 
 
